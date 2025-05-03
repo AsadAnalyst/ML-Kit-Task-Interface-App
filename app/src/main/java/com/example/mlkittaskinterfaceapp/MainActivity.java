@@ -1,4 +1,4 @@
-wepackage com.example.mlkittaskinterfaceapp;
+adwepackage com.example.mlkittaskinterfaceapp;
 
 import android.content.Intent;
 import android.os.Bundle;
